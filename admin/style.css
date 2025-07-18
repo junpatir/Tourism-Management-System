@@ -1,0 +1,36 @@
+#hoteltable th{
+	border: 1px solid;
+    font-size: bold;
+    text-align: center;	
+}
+
+#hotel{
+	border: 1px solid;
+	max-width: 700px;
+
+	background: ghostwhite;
+}
+
+#hotel form{
+	font-size: 25px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#hotel input{
+	font-size: 20px;
+	border-radius: 10px;
+	width: 400px;
+	text-align: center;
+	padding: 5px;	
+
+}
+
+#hotel form button{
+	width: 180px;
+	font-size: 20px;
+	padding: 5px;
+	background: red;
+	color: white;
+	border-radius: 10px;
+}
